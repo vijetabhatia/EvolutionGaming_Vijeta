@@ -34,8 +34,8 @@ public class Test {
 
             System.out.println("Successfully clicked on electronics");
 
-            //Sort the results by price
-//                TestSteps.sortByPrice();
+//            Sort the results by price
+                TestSteps.sortByPrice();
 
             System.out.println(" Successfully sorted the price");
             //select option 'Продажа' in "Тип сделки" dropdown.
